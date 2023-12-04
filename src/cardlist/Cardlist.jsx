@@ -1,4 +1,5 @@
+import Card from "../card/Card";
 function Cardlist() {
-  return <div>Navbar</div>;
+  return <div>Cardlist</div>;
 }
 export default Cardlist;

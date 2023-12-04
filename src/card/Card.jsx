@@ -1,4 +1,4 @@
 function Card() {
-  return <div>Navbar</div>;
+  return <div>Card</div>;
 }
 export default Card;

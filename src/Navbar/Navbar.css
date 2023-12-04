@@ -1,0 +1,10 @@
+.navigation {
+  color: red;
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+  font-size: 2rem;
+  background-color: cornflowerblue;
+  border: solid black 2px;
+  border-radius: 30px;
+}
